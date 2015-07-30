@@ -31,5 +31,4 @@ If your cheatsheet contains any character besides [1-4], it will still prompt yo
 
 ##Acknowledgements
 
-All credit to Bethesda Game Studios, Bethesda Softwarks, Todd Howard, the Brotherhood of Steel, etc.
-
+All credit to Bethesda Game Studios, Bethesda Softworks, Todd Howard, the Brotherhood of Steel, etc.
